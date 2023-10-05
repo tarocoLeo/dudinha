@@ -25,6 +25,7 @@
     background: #e80202;
     transform: rotate(45deg);
     box-shadow: 20px, 20px 40px rgba(0, 0, 0, 0.2);
+    opacity: 0.25;
 }
 .heart::before{
     content: '';
